@@ -1,20 +1,39 @@
-# Merhaba, ben Codxa 👋
+<div align="center">
+
+# 🛡️ Codxa
+
+### Web Security & Penetration Testing
+
+![Profile Views](https://komarev.com/ghpvc/?username=codxa&color=blueviolet&style=flat-square&label=Profile+Views)
+![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
+
+</div>
+
+---
+
+### 👋 Hakkımda
 
 Web güvenliği ve pentest üzerine çalışan bir siber güvenlik meraklısıyım. Sistemleri kırmak değil, nasıl daha güvenli hale getirilebileceğini anlamak için inceliyorum.
 
-## 🔍 Odaklandığım Alanlar
-- Web uygulama güvenliği (OWASP Top 10, injection, auth bypass, XSS/CSRF)
-- Sızma testi metodolojileri ve zafiyet analizi
-- Güvenli kod pratikleri ve savunma stratejileri
+### 🔍 Odaklandığım Alanlar
 
-## 🛠️ Kullandığım Araçlar & Teknolojiler
-`Burp Suite` `Nmap` `Wireshark` `OWASP ZAP` `Python` `Bash` `Linux`
+- 🌐 Web uygulama güvenliği — OWASP Top 10, injection, auth bypass, XSS/CSRF
+- 🎯 Sızma testi metodolojileri ve zafiyet analizi
+- 🔒 Güvenli kod pratikleri ve savunma stratejileri
 
-## 📊 GitHub İstatistikleri
+### 🛠️ Araçlar & Teknolojiler
 
-![Codxa's GitHub stats](https://github-readme-stats.vercel.app/api?username=codxa&show_icons=true&theme=default&hide_border=true)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codxa&layout=compact&hide_border=true)
+---
 
-## 📫 İletişim
-Sorularınız veya işbirliği önerileriniz için ulaşabilirsiniz.
+<div align="center">
+
+📫 **Sorularınız veya işbirliği önerileriniz için ulaşabilirsiniz.**
+
+</div>
